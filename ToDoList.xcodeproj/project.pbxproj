@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C66CE1382AD705BE003C768F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C66CE1372AD705BE003C768F /* GoogleService-Info.plist */; };
+		C685C8CD2AE6DC74009C7CD2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C685C8CC2AE6DC73009C7CD2 /* README.md */; };
 		C69152DC2AD5FEA00007E4F4 /* ToDoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69152DB2AD5FEA00007E4F4 /* ToDoListApp.swift */; };
 		C69152DE2AD5FEA00007E4F4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69152DD2AD5FEA00007E4F4 /* ContentView.swift */; };
 		C69152E02AD5FEA10007E4F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C69152DF2AD5FEA10007E4F4 /* Assets.xcassets */; };
@@ -43,6 +44,7 @@
 
 /* Begin PBXFileReference section */
 		C66CE1372AD705BE003C768F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		C685C8CC2AE6DC73009C7CD2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C69152D82AD5FEA00007E4F4 /* ToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C69152DB2AD5FEA00007E4F4 /* ToDoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListApp.swift; sourceTree = "<group>"; };
 		C69152DD2AD5FEA00007E4F4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 		C69152CF2AD5FEA00007E4F4 = {
 			isa = PBXGroup;
 			children = (
+				C685C8CC2AE6DC73009C7CD2 /* README.md */,
 				C69152DA2AD5FEA00007E4F4 /* ToDoList */,
 				C69152D92AD5FEA00007E4F4 /* Products */,
 			);
@@ -248,6 +251,7 @@
 			files = (
 				C69152E32AD5FEA10007E4F4 /* Preview Assets.xcassets in Resources */,
 				C69152E02AD5FEA10007E4F4 /* Assets.xcassets in Resources */,
+				C685C8CD2AE6DC74009C7CD2 /* README.md in Resources */,
 				C66CE1382AD705BE003C768F /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
