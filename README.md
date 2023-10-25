@@ -4,7 +4,7 @@ This repository contains project files for the iOS Developers Club.
 
 ## Setup
 
-To run this app, you'll need to setup your own Firebase configuration and `GoogleService-Info.plist` file.
+To run this app, you'll need to setup your own Firebase configuration and replace the `GoogleService-Info.plist` file with your own.
 
 1. Open the project in Xcode. Change the **bundle identifier** to anything you'd like in reverse domain notation. Make a note of this identifier.
 2. Go to [firebase.com](https://firebase.com).
