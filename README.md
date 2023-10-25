@@ -17,10 +17,6 @@ To run this app, you'll need to setup your own Firebase configuration and `Googl
 8. Download the **config file** so your app can connect to Firebase.
 9. Drag and drop the config file into Xcode.
 
-Your Xcode sidebar should look like this:
-
-
-
 ## Resources 
 
 - [Slide deck for this workshop](https://www.figma.com/proto/eGX9qYpI4DzaxZh3P1KPge/iOS-Developers-Club?page-id=285%3A784&type=design&node-id=155-181&viewport=461%2C127%2C0.05&t=gdd3fGrZJshvu386-1&scaling=scale-down&mode=design)
