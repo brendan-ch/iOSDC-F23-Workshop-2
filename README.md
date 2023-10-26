@@ -1,4 +1,4 @@
-# iOS Developers Club: Intro to App Development
+# iOS Developers Club: Building User Interfaces
 
 This repository contains project files for the iOS Developers Club.
 
@@ -18,5 +18,5 @@ To run this app, you'll need to setup your own Firebase configuration and replac
 
 ## Resources 
 
-- [Slide deck for this workshop](https://www.figma.com/proto/eGX9qYpI4DzaxZh3P1KPge/iOS-Developers-Club?page-id=285%3A784&type=design&node-id=155-181&viewport=461%2C127%2C0.05&t=gdd3fGrZJshvu386-1&scaling=scale-down&mode=design)
-- [Notion page](https://iosdevelopersclub.notion.site/Intro-to-App-Development-7fadc7506ddc41ae8bfa9dbb7f3db713?pvs=4)
+- [Slide deck for this workshop](https://www.figma.com/proto/eGX9qYpI4DzaxZh3P1KPge/iOS-Developers-Club?page-id=418%3A998&type=design&node-id=418-999&viewport=405%2C509%2C0.1&t=EjOZAAPh6CngrrGm-1&scaling=contain&mode=design)
+- [Notion page](https://iosdevelopersclub.notion.site/Building-User-Interfaces-with-SwiftUI-f6022a62994244729c9b86452cb46d32?pvs=4)
