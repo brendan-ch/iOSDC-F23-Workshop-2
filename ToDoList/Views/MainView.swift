@@ -8,9 +8,6 @@
 import SwiftUI
 
 struct MainView: View {
-    @State private var username = ""
-    @State private var password = ""
-    
     var body: some View {
         LoginView()
     }
